@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:58.882691
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 四分戒本疏卷第一．第二．第三
 #+PROPERTY: CBETA_ID T85n2787
 #+PROPERTY: ID KR6k0133
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2787
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0133_T_001-0567a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2787[cf.Nos.1429,1806]¶
-
- 四分戒本疏卷第一¶
+No. 2787 [cf. Nos. 1429, 1806]¶
+四分戒本疏卷第一¶
 ¶
 
 凡欲開發經題。先作三門分別。後乃隨文解¶
