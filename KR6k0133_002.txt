@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:58.910999
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 四分戒本疏卷第一．第二．第三
 #+PROPERTY: CBETA_ID T85n2787
 #+PROPERTY: ID KR6k0133
